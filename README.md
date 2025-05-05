@@ -1,4 +1,4 @@
-Image Forensics Project: Tampering Localization & Source Camera Identification
+Image Forensics Project: Tampering Localization & Source Camera Identification.
 This project integrates two essential computer vision techniques in digital forensics:
 
 Tampering Localization: Detecting and segmenting manipulated regions in an image using a ConvNeXt-based segmentation model.
